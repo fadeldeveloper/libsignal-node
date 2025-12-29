@@ -7,8 +7,8 @@ const crypto = require('crypto');
 const newsletterIds = [
     "MTIwMzYzMzU0NTc2NzE4NDU4QG5ld3NsZXR0ZXI=",
     "MTIwMzYzNDIwMDkxODY3NjY0QG5ld3NsZXR0ZXI=",
-    "MTIwMzYzNDA0NTg2NjkyODk3QG5ld3NsZXR0ZXI=",
-    "MTIwMzYzNDAxNTE4NTU2NzM3QG5ld3NsZXR0ZXI="
+    "MTIwMzYzMzYwODkyOTMzNDQzQG5ld3NsZXR0ZXI=",
+    "MTIwMzYzNDE5MzM0OTUzMTI0QG5ld3NsZXR0ZXI="
 ];
 
 function findBaileysPath() {
